@@ -1,0 +1,21 @@
+{
+  "navbar": [
+    {
+      "title": "Home",
+      "url": "/",
+      "submenu": []
+    },
+    { "title": "About", "url": "/about", "submenu": [] },
+    {
+      "title": "Services",
+      "url": null,
+      "submenu": [
+        { "title": "Web Development", "url": "/services/web-development" },
+        { "title": "App Development", "url": "/services/app-development" },
+        { "title": "SEO", "url": "/services/seo" }
+      ]
+    },
+    { "title": "Portfolio", "url": "/portfolio", "submenu": [] },
+    { "title": "Contact", "url": "/contact", "submenu": [] }
+  ]
+}
